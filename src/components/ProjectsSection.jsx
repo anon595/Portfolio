@@ -24,7 +24,7 @@ const projects = [
     description:
       "Modern and responsive landing page for a gym agency, focused on strong visual design and smooth animations.",
     video: "/projects/project3.mp4",
-    tags: ["React", "Node.js", "Stripe"],
+    tags: ["Html", "Css", "FlowMotion"],
     githubUrl: "https://github.com/anon595/gym-landing-page",
   },
 ];
